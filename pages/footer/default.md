@@ -1,5 +1,6 @@
 ---
 title: Footer
+published: true
 routable: false
 visible: false
 ---
