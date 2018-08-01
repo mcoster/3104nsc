@@ -1,8 +1,10 @@
 ---
 title: 'Important Reminders'
+alert_style: alert-secondary
 published: true
+visible: false
 ---
 
 ##### Important Reminders
 
-* [Usability inspection](https://canvas.sfu.ca/courses/36662/assignments/267545) peer reviews due Oct 17th
+* Cycle 2, with A/Prof. Mark Coster, will begin at 10 am on Friday, 3 August.
