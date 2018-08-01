@@ -1,17 +1,9 @@
 ---
-title: 'Class Preparations'
-published: false
+title: 'Welcome to Cycle 2 of 3104NSC'
+published: true
 header_image_file: /home/unit-05/13966760787_2d0975e6bc_k.jpg
 ---
 
-### Oct 4th Class Preparations
+Welcome to Cycle 2 of 3104NSC - Drug Design: Synthesis in Drug Discovery.
 
-##### Required Reading
-[A Five-Step Process For Conducting User Research](http://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)
-
-[Required Reading Quiz](https://canvas.sfu.ca/courses/36662/quizzes/65506?classes=btn,btn-primary)
-
-##### Slides to be Discussed
-[User Research](https://www.swipe.to/9967fp)
-
-Did you attend this class? [Share your one-minute summary](https://canvas.sfu.ca/courses/36662/assignments/267534) before midnight, the day of class.
+This site will provide you with resources such as brief videos, lecture slides and links to important information for my section of this course.
