@@ -12,9 +12,6 @@ This video provides an introduction to why drug design might be of interest to y
 
 ===
 
-##### Synthesis in Drug Discovery - Intro video  
-[plugin:youtube](https://www.youtube.com/watch?v=37D4YvmCIhQ)
-
 ##### Slides - <a href="https://3104nsc.mcoster.net/slides/01-intro.html" target="_blank">open in a new tab/window</a>
 <div class="embed-responsive embed-responsive-16by9">
 	<iframe class="embed-responsive-item" src="https://3104nsc.mcoster.net/slides/01-intro.html" allowfullscreen></iframe>
