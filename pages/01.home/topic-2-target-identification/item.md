@@ -14,10 +14,6 @@ A brief video explaining how synthetic chemistry can help find the biological ta
 
 ===
 
-##### Target Identification
-
-A brief video explaining how synthetic chemistry can help find the biological target(s) of a lead compound.
-
 [plugin:youtube](https://www.youtube.com/watch?v=zWVmRfd8uk4)
 
 ##### Slides - <a href="https://3104nsc.mcoster.net/slides/02-target-id.html" target="_blank">open in a new tab/window</a>
