@@ -1,7 +1,7 @@
 ---
 title: 'Topic 2: Target Identification'
 media_order: needle-haystack.png
-published: true
+published: false
 date: '17:13 01-08-2018'
 hide_from_post_list: false
 continue_link: true
