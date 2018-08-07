@@ -12,14 +12,15 @@ Please watch the videos linked in this post. They summarise the use of Combinato
 ===
 
 
-The most important parts of this video are between 11:47 and 17:18, although it is all relevant to this course. While you watch it, think about the following:
+The most important parts of this video are between 11:47 and 17:18, although it is all relevant to this course. While you watch it, think about the following:  
 _**What are the relative advantages and disadvantages of CombiChem vs. Parallel Synthesis**_  
 
 [youtube start=707]https://youtu.be/kVud7iJ7Yq0[/youtube]
 
 In what situations do you think you could use each of these techniques?  
 
-This video may look quite old-fashioned! Nevertheless, it gives some good insights into the use of CombiChem in industry.   
+This video may look quite old-fashioned! Nevertheless, it gives some good insights into the use of CombiChem in industry.  
+
 _**What are some 'barriers to entry' in the use of CombiChem techniques?**_
 [plugin:youtube](https://youtu.be/MVgsX7PM4F4)
 
