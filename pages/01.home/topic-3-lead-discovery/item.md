@@ -9,13 +9,13 @@ hide_git_sync_repo_link: false
 
 Please watch the videos linked in this post. They summarise the use of Combinatorial Chemistry (CombiChem) and Parallel Synthesis techniques in Drug Discovery.
 
-[plugin:youtube](https://youtu.be/kVud7iJ7Yq0?t=11m47s)
-
 ===
 
 
 The most important parts of this video are between 11:47 and 17:18, although it is all relevant to this course. While you watch it, think about the following:
 _**What are the relative advantages and disadvantages of CombiChem vs. Parallel Synthesis**_  
+
+[plugin:youtube](https://youtu.be/kVud7iJ7Yq0?t=11m47s)
 
 In what situations do you think you could use each of these techniques?  
 
